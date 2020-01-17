@@ -1,6 +1,5 @@
 package com.training.restapi.model;
 
-//@Entity
 public class Component{
     
     private String name;

@@ -11,7 +11,7 @@ import org.springframework.stereotype.Repository;
 @Repository
 public class JukeBoxSettingsRepository {
     
-    public List<Jukebox> getJukeboxList(String settingId, String model, Integer offset, Integer limit) {
+public List<Jukebox> getJukeboxList(String settingId, String model, Integer offset, Integer limit) {
         List<Jukebox> list = new ArrayList<>();
         Jukebox juke = new Jukebox();
         juke.setId("09809898as8908a0ds9f890adf");
