@@ -25,3 +25,8 @@ target/
 build/
 
 .vscode/
+
+.mvn
+**/.idea
+**/.vscode
+
